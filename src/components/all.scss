@@ -76,15 +76,6 @@ nav.navbar {
   }
 }
 
-.hero {
-  .triangle {
-    width: 400px;
-    height: 360px;
-    background: url(../images/polyscape-3/mountain.jpg);
-    background-position: 50% 70%;
-    filter: hue-rotate(60deg) contrast(200%);
-    clip-path: polygon(50% 0, 0 100%, 100% 100%);
-  }
-}
-
+@import "hero";
+@import "polyscape";
 @import "~bulma";

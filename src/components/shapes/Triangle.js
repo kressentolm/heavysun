@@ -3,6 +3,7 @@ import React from 'react'
 
 const Triangle = () => (
     <div class="triangle"></div>
+    
 )
 
 export default Triangle
