@@ -1,15 +1,27 @@
 ---
 templateKey: blog-post
-title: Hey this is a new post duuuuude
-date: 2018-09-10T05:41:11.341Z
-description: This is the description of that post. So that's cool.
+title: YEESH.
+date: 2019-07-21T23:49:00.000Z
+description: I don't remember it being this humid in Austin last summer.
 tags:
-  - Test
+  - Thoughts
 ---
-This is the body. Let's put some Lorem Ipsum in:
+![trippy umbrellas](/img/art-artistic-background-459882.jpg "trippy umbrellas")
 
-Lorem ipsum dolor sit amet, ut quodsi fastidii qui. Choro scribentur nec eu, est no quis prompta evertitur, no qui melius aliquid voluptatum. Cu melius tibique per, pro impetus sapientem sententiae an, in sit quodsi verear persecuti. Zril utroque vel ut, ad mazim accusata intellegat vel.
+I'm genuinely trying not to look at the chrome dev tools in my browser while I type this. I moved from a newer Windows computer to an older Mac Mini. This site is built with Gatsby and they changed a few things about how it's set up. So I had to do to the dependency dance for awhile. Which feels like this for about an hour:
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l4FGzTRVr14I4Ja00" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/golf-fall-kid-l4FGzTRVr14I4Ja00">via GIPHY</a></p>
 
+- - -
 
-Sed minim quaestio in, ex eum liber mediocritatem, quas denique percipit ne pro. Possit maiorum et vim. Id legimus electram dissentias ius. Porro dicant torquatos ei mel, impetus eripuit adipisci et nam. Et sit consul instructior.
+Have been inspired by the friends lately: growing their self-owned business, their Instagram, their brand. The hustle. It's motivating as hell.
+
+I started this awhile back in 2018 and didn't think twice about it again for _over a year_. Working web development at your 9-5, you really can't help but excuse it right?
+
+"I've been at a computer all day already"
+"I'm tired"
+"Let's see how far down the YouTube rabbit hole I can go down today"
+
+All those normal excuses. But I like what I do. A lot, honestly. Consistently working both sides of my brain. A hundred tiny lightbulbs going off, every single day. I had a friend who used to teach art and then went on to do quite well in our field, and she said something along the lines of "It's a blank canvas, and we're painting with logic and math". It's really cool when you think about it.
+
+Maybe it's because of the heat that I'm sitting in my apartment and actually writing a post almost a year later. But it feels good - let's see if I can stick to it.
