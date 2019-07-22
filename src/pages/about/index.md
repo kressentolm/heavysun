@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: I love what I do.
+title: 'What up, chicken butt'
 ---
 ![Chris Blackmon, a human](/img/screencapture-instagram-p-bwiaz9dbvciwpvgzgmw45shsmltzxgxnvetsgo0-2019-06-29-20_35_37.png "Chris Blackmon, a human")
 
