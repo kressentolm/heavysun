@@ -6,5 +6,11 @@
     background-image: url(../img/space.jpg);
     background-position: inherit;
     background-attachment: fixed;
-    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-hero .hero-title {
+    font-size: 25rem;
+    filter: drop-shadow(-4px 9px 16px #000000);
 }

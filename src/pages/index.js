@@ -12,11 +12,11 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
-        <Hero/>
+        <Hero classNames="home-hero">hey.</Hero>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+              <h1 className="has-text-weight-bold">ramblin'</h1>
             </div>
             {posts
               .map(({ node: post }) => (
@@ -25,19 +25,19 @@ export default class IndexPage extends React.Component {
                   style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                   key={post.id}
                 >
+                  {console.log(post)}
                   <p>
                     <Link className="has-text-primary" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
                   </p>
+                  <p><small>{post.frontmatter.date}</small></p>
                   <p>
-                    {post.excerpt}
+                    {post.frontmatter.description}
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
+                      More →
                     </Link>
                   </p>
                 </div>
@@ -72,6 +72,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
