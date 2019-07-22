@@ -101,10 +101,20 @@ body {
 
 .content,
 .columns {
-  h1 {
-    font-size: 7rem;
+  h1, h2, h3 {
+    font-size: 5rem;
   }
 }
+
+@media(min-width: 850px) {
+  .content,
+  .columns {
+    h1 {
+      font-size: 7rem;
+    }
+  }
+}
+
 
 @media (min-width: 1250px) {
   .about-section {

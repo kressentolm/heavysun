@@ -11,6 +11,12 @@
 }
 
 .home-hero .hero-title {
-    font-size: 25rem;
+    font-size: 10rem;
     filter: drop-shadow(-4px 9px 16px #000000);
 }
+
+@media(min-width: 850px) {
+    .home-hero .hero-title {
+        font-size: 25rem;
+    }
+  }
