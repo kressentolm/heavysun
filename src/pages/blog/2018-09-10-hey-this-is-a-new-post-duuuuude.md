@@ -10,9 +10,11 @@ tags:
 
 I'm genuinely trying not to look at the chrome dev tools in my browser while I type this. I moved from a newer Windows computer to an older Mac Mini. This site is built with Gatsby and they changed a few things about how it's set up. So I had to do to the dependency dance for awhile. Which feels like this for about an hour:
 
+
+
 <iframe src="https://giphy.com/embed/l4FGzTRVr14I4Ja00" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-- - -
+
 
 Have been inspired by the friends lately: growing their self-owned business, their Instagram, their brand. The hustle. It's motivating as hell.
 
