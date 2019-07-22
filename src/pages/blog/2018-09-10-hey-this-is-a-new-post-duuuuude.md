@@ -20,9 +20,9 @@ Have been inspired by the friends lately: growing their self-owned business, the
 
 I started this awhile back in 2018 and didn't think twice about it again for _over a year_. Working web development at your 9-5, you really can't help but excuse it right?
 
-"I've been at a computer all day already"
-"I'm tired"
-"Let's see how far down the YouTube rabbit hole I can go down today"
+* "I've been at a computer all day already"
+* "I'm tired"
+* "Let's see how far down the YouTube rabbit hole I can go down today"
 
 All those normal excuses. But I like what I do. A lot, honestly. Consistently working both sides of my brain. A hundred tiny lightbulbs going off, every single day. I had a friend who used to teach art and then went on to do quite well in our field, and she said something along the lines of "It's a blank canvas, and we're painting with logic and math". It's really cool when you think about it.
 
