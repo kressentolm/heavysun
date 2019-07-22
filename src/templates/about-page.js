@@ -14,9 +14,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className="column is-10 is-offset-1">
             <div className="section">
               <h1 className="title has-text-weight-bold is-bold-light">
-                {/* {title} */}
-                what up, <br/> chicken butt
-                {/* hard coded bc I want that sweet sweet <br> tag and don't want to set my html dangerously ;) */}
+                {title}
               </h1>
               <PageContent className="content" content={content} />
             </div>
